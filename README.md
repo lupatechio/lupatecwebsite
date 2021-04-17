@@ -1,2 +1,2 @@
 # lupatecwebsite
-Oficial LUPA Tec Website repository.
+Oficial lupatech.io Website repository.
